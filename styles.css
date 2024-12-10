@@ -1,0 +1,26 @@
+/* Tip: Start writing from least to most specific. */
+
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: darkred;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: darkred;
+}
+
+#grand-title {
+    font-size: 48px;
+}
+
+p {
+    background-color: rgb(240, 176, 176);
+    color: rgb(87, 0, 0);
+}
