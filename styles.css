@@ -4,6 +4,10 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+body {
+    background-color: antiquewhite;
+}
+
 h1 {
     font-size: 36px;
     font-weight: bold;
@@ -18,9 +22,22 @@ h2 {
 
 #grand-title {
     font-size: 48px;
+    margin-bottom: 20px;
 }
 
-p {
+/* p {
     background-color: rgb(240, 176, 176);
     color: rgb(87, 0, 0);
+} */
+
+div {
+    background-color: lightgrey;
+    border: 2px solid lightcoral;
+    border-radius: 6px;
+    padding: 5px 10px;
+}
+
+ul { 
+    margin: 8px 0;
+    padding-left: 25px;
 }
